@@ -1,2 +1,2 @@
 # Dataset
-This dataset ontains Suspicious and nonsuspicious bangla and english texts.
+This dataset contains Suspicious and nonsuspicious bangla and english texts.
